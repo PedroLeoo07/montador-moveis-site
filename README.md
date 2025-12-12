@@ -1,8 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Montador de Móveis - Website Profissional
 
-## Getting Started
+Um website moderno e responsivo para serviços profissionais de montagem de móveis, desenvolvido com Next.js 14 e TypeScript.
 
-First, run the development server:
+## 🚀 Funcionalidades
+
+- **Design Responsivo**: Otimizado para desktop, tablet e mobile
+- **Performance**: Otimizado com Next.js 14 e componentes reutilizáveis
+- **SEO Friendly**: Meta tags e estrutura otimizada para motores de busca
+- **Galeria Interativa**: Sistema de filtros por categoria de trabalhos
+- **Formulário de Contato**: Sistema completo de solicitação de orçamentos
+- **Integração WhatsApp**: Links diretos para contato via WhatsApp
+- **Componentes Modulares**: Navbar e Footer reutilizáveis
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Next.js 14**: Framework React com App Router
+- **TypeScript**: Tipagem estática para melhor desenvolvimento
+- **React 18**: Biblioteca para interface do usuário
+- **CSS Modules**: Estilos componentizados com styled-jsx
+- **Responsive Design**: Layout adaptável para todos os dispositivos
+
+## 📱 Páginas
+
+1. **Home**: Apresentação dos serviços e diferenciais
+2. **Serviços**: Lista detalhada de serviços com preços e descrições
+3. **Galeria**: Portfólio de trabalhos realizados com sistema de filtros
+4. **Sobre**: História, experiência e processo de trabalho
+5. **Contato**: Formulário completo e informações de contato
+
+## 🚀 Como Executar
+
+1. **Clone o repositório**:
+```bash
+git clone https://github.com/PedroLeoo07/1.-montador-moveis-site.git
+cd montador-moveis
+```
+
+2. **Instale as dependências**:
 
 ```bash
 npm run dev
